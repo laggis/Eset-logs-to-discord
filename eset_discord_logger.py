@@ -6,12 +6,12 @@ import pytz
 import argparse
 
 # Configuration
-DISCORD_WEBHOOK_URL = "https://discordapp.com/api/webhooks/1322756052009222164/jdyY-PacaLbgJg4XUbGhUaIREadcK_CUqYnm63TE-FPZYrlQs3LDYEgpqEjOnOQChmKN"
+DISCORD_WEBHOOK_URL = ""
 
 # ESET Logo and other images
-ESET_LOGO = "https://www.eset.com/fileadmin/ESET/INT/Images/Logo/eset-logo-1024x1024.png"
-THREAT_IMAGE = "https://www.eset.com/fileadmin/ESET/INT/Images/Icons/threat-types/ransomware.png"
-SHIELD_IMAGE = "https://www.eset.com/fileadmin/ESET/INT/Images/Icons/products/home-products/antivirus.png"
+ESET_LOGO = ""
+THREAT_IMAGE = ""
+SHIELD_IMAGE = ""
 
 # ESET Log paths
 ESET_LOG_DIR = "C:\\ProgramData\\ESET\\ESET Security\\Logs"
